@@ -59,7 +59,7 @@ const Registration = () => {
       setErrors(prev => ({
         ...prev,
         [name]: undefined
-      }));
+      }));1
     }
   };
 
